@@ -10,7 +10,7 @@
         "semi": ["error", "always"],
         "no-multi-spaces": ["error"],
         "quotes": ["error", "double"],
-        "linebreak-style": ["error", "windows"],
+        // "linebreak-style": ["error", "windows"],
         "object-curly-spacing": ["error", "never"],
         "@tanstack/query/exhaustive-deps": "error",
         "@tanstack/query/stable-query-client": "error",
